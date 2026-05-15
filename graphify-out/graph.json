@@ -1,0 +1,3038 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "skills-lock.json",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L1",
+      "id": "skills_lock_json",
+      "community": 1,
+      "norm_label": "skills-lock.json"
+    },
+    {
+      "label": "version",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L2",
+      "id": "far17_skills_lock_version",
+      "community": 1,
+      "norm_label": "version"
+    },
+    {
+      "label": "skills",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L3",
+      "id": "far17_skills_lock_skills",
+      "community": 1,
+      "norm_label": "skills"
+    },
+    {
+      "label": "Skill Development",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L4",
+      "id": "far17_skills_lock_skills_skill_development",
+      "community": 1,
+      "norm_label": "skill development"
+    },
+    {
+      "label": "source",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L5",
+      "id": "far17_skills_lock_skill_development_source",
+      "community": 1,
+      "norm_label": "source"
+    },
+    {
+      "label": "sourceType",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L6",
+      "id": "far17_skills_lock_skill_development_sourcetype",
+      "community": 1,
+      "norm_label": "sourcetype"
+    },
+    {
+      "label": "skillPath",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L7",
+      "id": "far17_skills_lock_skill_development_skillpath",
+      "community": 1,
+      "norm_label": "skillpath"
+    },
+    {
+      "label": "computedHash",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L8",
+      "id": "far17_skills_lock_skill_development_computedhash",
+      "community": 1,
+      "norm_label": "computedhash"
+    },
+    {
+      "label": "figma-implement-design",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L10",
+      "id": "far17_skills_lock_skills_figma_implement_design",
+      "community": 1,
+      "norm_label": "figma-implement-design"
+    },
+    {
+      "label": "source",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L11",
+      "id": "far17_skills_lock_figma_implement_design_source",
+      "community": 1,
+      "norm_label": "source"
+    },
+    {
+      "label": "sourceType",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L12",
+      "id": "far17_skills_lock_figma_implement_design_sourcetype",
+      "community": 1,
+      "norm_label": "sourcetype"
+    },
+    {
+      "label": "skillPath",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L13",
+      "id": "far17_skills_lock_figma_implement_design_skillpath",
+      "community": 1,
+      "norm_label": "skillpath"
+    },
+    {
+      "label": "computedHash",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L14",
+      "id": "far17_skills_lock_figma_implement_design_computedhash",
+      "community": 1,
+      "norm_label": "computedhash"
+    },
+    {
+      "label": "frontend-design",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L16",
+      "id": "far17_skills_lock_skills_frontend_design",
+      "community": 1,
+      "norm_label": "frontend-design"
+    },
+    {
+      "label": "source",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L17",
+      "id": "far17_skills_lock_frontend_design_source",
+      "community": 1,
+      "norm_label": "source"
+    },
+    {
+      "label": "sourceType",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L18",
+      "id": "far17_skills_lock_frontend_design_sourcetype",
+      "community": 1,
+      "norm_label": "sourcetype"
+    },
+    {
+      "label": "skillPath",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L19",
+      "id": "far17_skills_lock_frontend_design_skillpath",
+      "community": 1,
+      "norm_label": "skillpath"
+    },
+    {
+      "label": "computedHash",
+      "file_type": "code",
+      "source_file": "skills-lock.json",
+      "source_location": "L20",
+      "id": "far17_skills_lock_frontend_design_computedhash",
+      "community": 1,
+      "norm_label": "computedhash"
+    },
+    {
+      "label": "config.json",
+      "file_type": "code",
+      "source_file": ".planning/config.json",
+      "source_location": "L1",
+      "id": "planning_config_json",
+      "community": 14,
+      "norm_label": "config.json"
+    },
+    {
+      "label": "graphify",
+      "file_type": "code",
+      "source_file": ".planning/config.json",
+      "source_location": "L2",
+      "id": "planning_config_graphify",
+      "community": 14,
+      "norm_label": "graphify"
+    },
+    {
+      "label": "enabled",
+      "file_type": "code",
+      "source_file": ".planning/config.json",
+      "source_location": "L3",
+      "id": "planning_config_graphify_enabled",
+      "community": 14,
+      "norm_label": "enabled"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme_md",
+      "community": 15,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "Far17",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "far17_readme_far17",
+      "community": 15,
+      "norm_label": "far17"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L1",
+      "id": "agents_skills_figma_implement_design_skill_md",
+      "community": 0,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "Implement Design",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L6",
+      "id": "figma_implement_design_skill_implement_design",
+      "community": 0,
+      "norm_label": "implement design"
+    },
+    {
+      "label": "Overview",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L8",
+      "id": "figma_implement_design_skill_overview",
+      "community": 0,
+      "norm_label": "overview"
+    },
+    {
+      "label": "Skill Boundaries",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L12",
+      "id": "figma_implement_design_skill_skill_boundaries",
+      "community": 0,
+      "norm_label": "skill boundaries"
+    },
+    {
+      "label": "Prerequisites",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L20",
+      "id": "figma_implement_design_skill_prerequisites",
+      "community": 0,
+      "norm_label": "prerequisites"
+    },
+    {
+      "label": "Required Workflow",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L29",
+      "id": "figma_implement_design_skill_required_workflow",
+      "community": 5,
+      "norm_label": "required workflow"
+    },
+    {
+      "label": "Step 1: Get Node ID",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L33",
+      "id": "figma_implement_design_skill_step_1_get_node_id",
+      "community": 5,
+      "norm_label": "step 1: get node id"
+    },
+    {
+      "label": "Option A: Parse from Figma URL",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L35",
+      "id": "figma_implement_design_skill_option_a_parse_from_figma_url",
+      "community": 5,
+      "norm_label": "option a: parse from figma url"
+    },
+    {
+      "label": "Option B: Use Current Selection from Figma Desktop App (figma-desktop MCP only)",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L54",
+      "id": "figma_implement_design_skill_option_b_use_current_selection_from_figma_desktop_app_figma_desktop_mcp_only",
+      "community": 5,
+      "norm_label": "option b: use current selection from figma desktop app (figma-desktop mcp only)"
+    },
+    {
+      "label": "Step 2: Fetch Design Context",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L60",
+      "id": "figma_implement_design_skill_step_2_fetch_design_context",
+      "community": 5,
+      "norm_label": "step 2: fetch design context"
+    },
+    {
+      "label": "code:block1 (get_design_context(fileKey=\":fileKey\", nodeId=\"1-2\"))",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L64",
+      "id": "figma_implement_design_skill_codeblock_1",
+      "community": 5,
+      "norm_label": "code:block1 (get_design_context(filekey=\":filekey\", nodeid=\"1-2\"))"
+    },
+    {
+      "label": "Step 3: Capture Visual Reference",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L82",
+      "id": "figma_implement_design_skill_step_3_capture_visual_reference",
+      "community": 5,
+      "norm_label": "step 3: capture visual reference"
+    },
+    {
+      "label": "code:block2 (get_screenshot(fileKey=\":fileKey\", nodeId=\"1-2\"))",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L86",
+      "id": "figma_implement_design_skill_codeblock_2",
+      "community": 5,
+      "norm_label": "code:block2 (get_screenshot(filekey=\":filekey\", nodeid=\"1-2\"))"
+    },
+    {
+      "label": "Step 4: Download Required Assets",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L92",
+      "id": "figma_implement_design_skill_step_4_download_required_assets",
+      "community": 5,
+      "norm_label": "step 4: download required assets"
+    },
+    {
+      "label": "Step 5: Translate to Project Conventions",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L103",
+      "id": "figma_implement_design_skill_step_5_translate_to_project_conventions",
+      "community": 5,
+      "norm_label": "step 5: translate to project conventions"
+    },
+    {
+      "label": "Step 6: Achieve 1:1 Visual Parity",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L115",
+      "id": "figma_implement_design_skill_step_6_achieve_1_1_visual_parity",
+      "community": 5,
+      "norm_label": "step 6: achieve 1:1 visual parity"
+    },
+    {
+      "label": "Step 7: Validate Against Figma",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L127",
+      "id": "figma_implement_design_skill_step_7_validate_against_figma",
+      "community": 5,
+      "norm_label": "step 7: validate against figma"
+    },
+    {
+      "label": "Implementation Rules",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L141",
+      "id": "figma_implement_design_skill_implementation_rules",
+      "community": 0,
+      "norm_label": "implementation rules"
+    },
+    {
+      "label": "Component Organization",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L143",
+      "id": "figma_implement_design_skill_component_organization",
+      "community": 0,
+      "norm_label": "component organization"
+    },
+    {
+      "label": "Design System Integration",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L149",
+      "id": "figma_implement_design_skill_design_system_integration",
+      "community": 0,
+      "norm_label": "design system integration"
+    },
+    {
+      "label": "Code Quality",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L156",
+      "id": "figma_implement_design_skill_code_quality",
+      "community": 0,
+      "norm_label": "code quality"
+    },
+    {
+      "label": "Examples",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L163",
+      "id": "figma_implement_design_skill_examples",
+      "community": 0,
+      "norm_label": "examples"
+    },
+    {
+      "label": "Example 1: Implementing a Button Component",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L165",
+      "id": "figma_implement_design_skill_example_1_implementing_a_button_component",
+      "community": 0,
+      "norm_label": "example 1: implementing a button component"
+    },
+    {
+      "label": "Example 2: Building a Dashboard Layout",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L182",
+      "id": "figma_implement_design_skill_example_2_building_a_dashboard_layout",
+      "community": 0,
+      "norm_label": "example 2: building a dashboard layout"
+    },
+    {
+      "label": "Best Practices",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L200",
+      "id": "figma_implement_design_skill_best_practices",
+      "community": 12,
+      "norm_label": "best practices"
+    },
+    {
+      "label": "Always Start with Context",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L202",
+      "id": "figma_implement_design_skill_always_start_with_context",
+      "community": 12,
+      "norm_label": "always start with context"
+    },
+    {
+      "label": "Incremental Validation",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L206",
+      "id": "figma_implement_design_skill_incremental_validation",
+      "community": 12,
+      "norm_label": "incremental validation"
+    },
+    {
+      "label": "Document Deviations",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L210",
+      "id": "figma_implement_design_skill_document_deviations",
+      "community": 12,
+      "norm_label": "document deviations"
+    },
+    {
+      "label": "Reuse Over Recreation",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L214",
+      "id": "figma_implement_design_skill_reuse_over_recreation",
+      "community": 12,
+      "norm_label": "reuse over recreation"
+    },
+    {
+      "label": "Design System First",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L218",
+      "id": "figma_implement_design_skill_design_system_first",
+      "community": 12,
+      "norm_label": "design system first"
+    },
+    {
+      "label": "Common Issues and Solutions",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L222",
+      "id": "figma_implement_design_skill_common_issues_and_solutions",
+      "community": 0,
+      "norm_label": "common issues and solutions"
+    },
+    {
+      "label": "Issue: Figma output is truncated",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L224",
+      "id": "figma_implement_design_skill_issue_figma_output_is_truncated",
+      "community": 0,
+      "norm_label": "issue: figma output is truncated"
+    },
+    {
+      "label": "Issue: Design doesn't match after implementation",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L229",
+      "id": "figma_implement_design_skill_issue_design_doesn_t_match_after_implementation",
+      "community": 0,
+      "norm_label": "issue: design doesn't match after implementation"
+    },
+    {
+      "label": "Issue: Assets not loading",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L234",
+      "id": "figma_implement_design_skill_issue_assets_not_loading",
+      "community": 0,
+      "norm_label": "issue: assets not loading"
+    },
+    {
+      "label": "Issue: Design token values differ from Figma",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L239",
+      "id": "figma_implement_design_skill_issue_design_token_values_differ_from_figma",
+      "community": 0,
+      "norm_label": "issue: design token values differ from figma"
+    },
+    {
+      "label": "Understanding Design Implementation",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L244",
+      "id": "figma_implement_design_skill_understanding_design_implementation",
+      "community": 0,
+      "norm_label": "understanding design implementation"
+    },
+    {
+      "label": "Additional Resources",
+      "file_type": "document",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L254",
+      "id": "figma_implement_design_skill_additional_resources",
+      "community": 0,
+      "norm_label": "additional resources"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/frontend-design/SKILL.md",
+      "source_location": "L1",
+      "id": "agents_skills_frontend_design_skill_md",
+      "community": 13,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "Design Thinking",
+      "file_type": "document",
+      "source_file": ".agents/skills/frontend-design/SKILL.md",
+      "source_location": "L11",
+      "id": "frontend_design_skill_design_thinking",
+      "community": 13,
+      "norm_label": "design thinking"
+    },
+    {
+      "label": "Frontend Aesthetics Guidelines",
+      "file_type": "document",
+      "source_file": ".agents/skills/frontend-design/SKILL.md",
+      "source_location": "L27",
+      "id": "frontend_design_skill_frontend_aesthetics_guidelines",
+      "community": 13,
+      "norm_label": "frontend aesthetics guidelines"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L1",
+      "id": "agents_skills_skill_development_skill_md",
+      "community": 3,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "Skill Development for Claude Code Plugins",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L7",
+      "id": "skill_development_skill_skill_development_for_claude_code_plugins",
+      "community": 3,
+      "norm_label": "skill development for claude code plugins"
+    },
+    {
+      "label": "About Skills",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L11",
+      "id": "skill_development_skill_about_skills",
+      "community": 8,
+      "norm_label": "about skills"
+    },
+    {
+      "label": "What Skills Provide",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L18",
+      "id": "skill_development_skill_what_skills_provide",
+      "community": 8,
+      "norm_label": "what skills provide"
+    },
+    {
+      "label": "Anatomy of a Skill",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L25",
+      "id": "skill_development_skill_anatomy_of_a_skill",
+      "community": 8,
+      "norm_label": "anatomy of a skill"
+    },
+    {
+      "label": "code:block1 (skill-name/)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L29",
+      "id": "skill_development_skill_codeblock_1",
+      "community": 8,
+      "norm_label": "code:block1 (skill-name/)"
+    },
+    {
+      "label": "SKILL.md (required)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L42",
+      "id": "skill_development_skill_skill_md_required",
+      "community": 8,
+      "norm_label": "skill.md (required)"
+    },
+    {
+      "label": "Bundled Resources (optional)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L46",
+      "id": "skill_development_skill_bundled_resources_optional",
+      "community": 8,
+      "norm_label": "bundled resources (optional)"
+    },
+    {
+      "label": "Scripts (`scripts/`)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L48",
+      "id": "skill_development_skill_scripts_scripts",
+      "community": 8,
+      "norm_label": "scripts (`scripts/`)"
+    },
+    {
+      "label": "References (`references/`)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L57",
+      "id": "skill_development_skill_references_references",
+      "community": 8,
+      "norm_label": "references (`references/`)"
+    },
+    {
+      "label": "Assets (`assets/`)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L68",
+      "id": "skill_development_skill_assets_assets",
+      "community": 8,
+      "norm_label": "assets (`assets/`)"
+    },
+    {
+      "label": "Progressive Disclosure Design Principle",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L77",
+      "id": "skill_development_skill_progressive_disclosure_design_principle",
+      "community": 8,
+      "norm_label": "progressive disclosure design principle"
+    },
+    {
+      "label": "Skill Creation Process",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L87",
+      "id": "skill_development_skill_skill_creation_process",
+      "community": 2,
+      "norm_label": "skill creation process"
+    },
+    {
+      "label": "Step 1: Understanding the Skill with Concrete Examples",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L91",
+      "id": "skill_development_skill_step_1_understanding_the_skill_with_concrete_examples",
+      "community": 2,
+      "norm_label": "step 1: understanding the skill with concrete examples"
+    },
+    {
+      "label": "Step 2: Planning the Reusable Skill Contents",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L108",
+      "id": "skill_development_skill_step_2_planning_the_reusable_skill_contents",
+      "community": 2,
+      "norm_label": "step 2: planning the reusable skill contents"
+    },
+    {
+      "label": "Step 3: Create Skill Structure",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L137",
+      "id": "skill_development_skill_step_3_create_skill_structure",
+      "community": 2,
+      "norm_label": "step 3: create skill structure"
+    },
+    {
+      "label": "code:bash (mkdir -p plugin-name/skills/skill-name/{references,examples,)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L141",
+      "id": "skill_development_skill_codeblock_2",
+      "community": 2,
+      "norm_label": "code:bash (mkdir -p plugin-name/skills/skill-name/{references,examples,)"
+    },
+    {
+      "label": "Step 4: Edit the Skill",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L148",
+      "id": "skill_development_skill_step_4_edit_the_skill",
+      "community": 2,
+      "norm_label": "step 4: edit the skill"
+    },
+    {
+      "label": "Start with Reusable Skill Contents",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L152",
+      "id": "skill_development_skill_start_with_reusable_skill_contents",
+      "community": 2,
+      "norm_label": "start with reusable skill contents"
+    },
+    {
+      "label": "Update SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L158",
+      "id": "skill_development_skill_update_skill_md",
+      "community": 2,
+      "norm_label": "update skill.md"
+    },
+    {
+      "label": "code:yaml (---)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L164",
+      "id": "skill_development_skill_codeblock_3",
+      "community": 2,
+      "norm_label": "code:yaml (---)"
+    },
+    {
+      "label": "code:yaml (description: This skill should be used when the user asks to)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L173",
+      "id": "skill_development_skill_codeblock_4",
+      "community": 2,
+      "norm_label": "code:yaml (description: this skill should be used when the user asks to)"
+    },
+    {
+      "label": "code:yaml (description: Use this skill when working with hooks.  # Wron)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L178",
+      "id": "skill_development_skill_codeblock_5",
+      "community": 2,
+      "norm_label": "code:yaml (description: use this skill when working with hooks.  # wron)"
+    },
+    {
+      "label": "code:markdown (## Additional Resources)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L197",
+      "id": "skill_development_skill_codeblock_6",
+      "community": 2,
+      "norm_label": "code:markdown (## additional resources)"
+    },
+    {
+      "label": "Step 5: Validate and Test",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L212",
+      "id": "skill_development_skill_step_5_validate_and_test",
+      "community": 2,
+      "norm_label": "step 5: validate and test"
+    },
+    {
+      "label": "code:block7 (Ask: \"Review my skill and check if it follows best practices)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L226",
+      "id": "skill_development_skill_codeblock_7",
+      "community": 2,
+      "norm_label": "code:block7 (ask: \"review my skill and check if it follows best practices)"
+    },
+    {
+      "label": "Step 6: Iterate",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L232",
+      "id": "skill_development_skill_step_6_iterate",
+      "community": 2,
+      "norm_label": "step 6: iterate"
+    },
+    {
+      "label": "Plugin-Specific Considerations",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L249",
+      "id": "skill_development_skill_plugin_specific_considerations",
+      "community": 10,
+      "norm_label": "plugin-specific considerations"
+    },
+    {
+      "label": "Skill Location in Plugins",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L251",
+      "id": "skill_development_skill_skill_location_in_plugins",
+      "community": 10,
+      "norm_label": "skill location in plugins"
+    },
+    {
+      "label": "code:block8 (my-plugin/)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L255",
+      "id": "skill_development_skill_codeblock_8",
+      "community": 10,
+      "norm_label": "code:block8 (my-plugin/)"
+    },
+    {
+      "label": "Auto-Discovery",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L269",
+      "id": "skill_development_skill_auto_discovery",
+      "community": 10,
+      "norm_label": "auto-discovery"
+    },
+    {
+      "label": "No Packaging Needed",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L278",
+      "id": "skill_development_skill_no_packaging_needed",
+      "community": 10,
+      "norm_label": "no packaging needed"
+    },
+    {
+      "label": "Testing in Plugins",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L282",
+      "id": "skill_development_skill_testing_in_plugins",
+      "community": 10,
+      "norm_label": "testing in plugins"
+    },
+    {
+      "label": "code:bash (# Test with --plugin-dir)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L286",
+      "id": "skill_development_skill_codeblock_9",
+      "community": 10,
+      "norm_label": "code:bash (# test with --plugin-dir)"
+    },
+    {
+      "label": "Examples from Plugin-Dev",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L294",
+      "id": "skill_development_skill_examples_from_plugin_dev",
+      "community": 3,
+      "norm_label": "examples from plugin-dev"
+    },
+    {
+      "label": "Progressive Disclosure in Practice",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L318",
+      "id": "skill_development_skill_progressive_disclosure_in_practice",
+      "community": 3,
+      "norm_label": "progressive disclosure in practice"
+    },
+    {
+      "label": "What Goes in SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L320",
+      "id": "skill_development_skill_what_goes_in_skill_md",
+      "community": 3,
+      "norm_label": "what goes in skill.md"
+    },
+    {
+      "label": "What Goes in references/",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L331",
+      "id": "skill_development_skill_what_goes_in_references",
+      "community": 3,
+      "norm_label": "what goes in references/"
+    },
+    {
+      "label": "What Goes in examples/",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L342",
+      "id": "skill_development_skill_what_goes_in_examples",
+      "community": 3,
+      "norm_label": "what goes in examples/"
+    },
+    {
+      "label": "What Goes in scripts/",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L352",
+      "id": "skill_development_skill_what_goes_in_scripts",
+      "community": 3,
+      "norm_label": "what goes in scripts/"
+    },
+    {
+      "label": "Writing Style Requirements",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L362",
+      "id": "skill_development_skill_writing_style_requirements",
+      "community": 9,
+      "norm_label": "writing style requirements"
+    },
+    {
+      "label": "Imperative/Infinitive Form",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L364",
+      "id": "skill_development_skill_imperative_infinitive_form",
+      "community": 9,
+      "norm_label": "imperative/infinitive form"
+    },
+    {
+      "label": "code:block10 (To create a hook, define the event type.)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L369",
+      "id": "skill_development_skill_codeblock_10",
+      "community": 9,
+      "norm_label": "code:block10 (to create a hook, define the event type.)"
+    },
+    {
+      "label": "code:block11 (You should create a hook by defining the event type.)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L376",
+      "id": "skill_development_skill_codeblock_11",
+      "community": 9,
+      "norm_label": "code:block11 (you should create a hook by defining the event type.)"
+    },
+    {
+      "label": "Third-Person in Description",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L382",
+      "id": "skill_development_skill_third_person_in_description",
+      "community": 9,
+      "norm_label": "third-person in description"
+    },
+    {
+      "label": "code:yaml (description: This skill should be used when the user asks to)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L387",
+      "id": "skill_development_skill_codeblock_12",
+      "community": 9,
+      "norm_label": "code:yaml (description: this skill should be used when the user asks to)"
+    },
+    {
+      "label": "code:yaml (description: Use this skill when you want to create X...)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L392",
+      "id": "skill_development_skill_codeblock_13",
+      "community": 9,
+      "norm_label": "code:yaml (description: use this skill when you want to create x...)"
+    },
+    {
+      "label": "Objective, Instructional Language",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L397",
+      "id": "skill_development_skill_objective_instructional_language",
+      "community": 9,
+      "norm_label": "objective, instructional language"
+    },
+    {
+      "label": "code:block14 (Parse the frontmatter using sed.)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L402",
+      "id": "skill_development_skill_codeblock_14",
+      "community": 9,
+      "norm_label": "code:block14 (parse the frontmatter using sed.)"
+    },
+    {
+      "label": "code:block15 (You can parse the frontmatter...)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L409",
+      "id": "skill_development_skill_codeblock_15",
+      "community": 9,
+      "norm_label": "code:block15 (you can parse the frontmatter...)"
+    },
+    {
+      "label": "Validation Checklist",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L415",
+      "id": "skill_development_skill_validation_checklist",
+      "community": 3,
+      "norm_label": "validation checklist"
+    },
+    {
+      "label": "Common Mistakes to Avoid",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L451",
+      "id": "skill_development_skill_common_mistakes_to_avoid",
+      "community": 4,
+      "norm_label": "common mistakes to avoid"
+    },
+    {
+      "label": "Mistake 1: Weak Trigger Description",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L453",
+      "id": "skill_development_skill_mistake_1_weak_trigger_description",
+      "community": 4,
+      "norm_label": "mistake 1: weak trigger description"
+    },
+    {
+      "label": "code:yaml (description: Provides guidance for working with hooks.)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L456",
+      "id": "skill_development_skill_codeblock_16",
+      "community": 4,
+      "norm_label": "code:yaml (description: provides guidance for working with hooks.)"
+    },
+    {
+      "label": "code:yaml (description: This skill should be used when the user asks to)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L463",
+      "id": "skill_development_skill_codeblock_17",
+      "community": 4,
+      "norm_label": "code:yaml (description: this skill should be used when the user asks to)"
+    },
+    {
+      "label": "Mistake 2: Too Much in SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L469",
+      "id": "skill_development_skill_mistake_2_too_much_in_skill_md",
+      "community": 4,
+      "norm_label": "mistake 2: too much in skill.md"
+    },
+    {
+      "label": "code:block18 (skill-name/)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L472",
+      "id": "skill_development_skill_codeblock_18",
+      "community": 4,
+      "norm_label": "code:block18 (skill-name/)"
+    },
+    {
+      "label": "code:block19 (skill-name/)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L480",
+      "id": "skill_development_skill_codeblock_19",
+      "community": 4,
+      "norm_label": "code:block19 (skill-name/)"
+    },
+    {
+      "label": "Mistake 3: Second Person Writing",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L490",
+      "id": "skill_development_skill_mistake_3_second_person_writing",
+      "community": 4,
+      "norm_label": "mistake 3: second person writing"
+    },
+    {
+      "label": "code:markdown (You should start by reading the configuration file.)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L493",
+      "id": "skill_development_skill_codeblock_20",
+      "community": 4,
+      "norm_label": "code:markdown (you should start by reading the configuration file.)"
+    },
+    {
+      "label": "code:markdown (Start by reading the configuration file.)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L502",
+      "id": "skill_development_skill_codeblock_21",
+      "community": 4,
+      "norm_label": "code:markdown (start by reading the configuration file.)"
+    },
+    {
+      "label": "Mistake 4: Missing Resource References",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L510",
+      "id": "skill_development_skill_mistake_4_missing_resource_references",
+      "community": 4,
+      "norm_label": "mistake 4: missing resource references"
+    },
+    {
+      "label": "code:markdown (# SKILL.md)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L513",
+      "id": "skill_development_skill_codeblock_22",
+      "community": 4,
+      "norm_label": "code:markdown (# skill.md)"
+    },
+    {
+      "label": "code:markdown (# SKILL.md)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L524",
+      "id": "skill_development_skill_codeblock_23",
+      "community": 4,
+      "norm_label": "code:markdown (# skill.md)"
+    },
+    {
+      "label": "Quick Reference",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L541",
+      "id": "skill_development_skill_quick_reference",
+      "community": 11,
+      "norm_label": "quick reference"
+    },
+    {
+      "label": "Minimal Skill",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L543",
+      "id": "skill_development_skill_minimal_skill",
+      "community": 11,
+      "norm_label": "minimal skill"
+    },
+    {
+      "label": "code:block24 (skill-name/)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L545",
+      "id": "skill_development_skill_codeblock_24",
+      "community": 11,
+      "norm_label": "code:block24 (skill-name/)"
+    },
+    {
+      "label": "Standard Skill (Recommended)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L552",
+      "id": "skill_development_skill_standard_skill_recommended",
+      "community": 11,
+      "norm_label": "standard skill (recommended)"
+    },
+    {
+      "label": "code:block25 (skill-name/)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L554",
+      "id": "skill_development_skill_codeblock_25",
+      "community": 11,
+      "norm_label": "code:block25 (skill-name/)"
+    },
+    {
+      "label": "Complete Skill",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L565",
+      "id": "skill_development_skill_complete_skill",
+      "community": 11,
+      "norm_label": "complete skill"
+    },
+    {
+      "label": "code:block26 (skill-name/)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L567",
+      "id": "skill_development_skill_codeblock_26",
+      "community": 11,
+      "norm_label": "code:block26 (skill-name/)"
+    },
+    {
+      "label": "Best Practices Summary",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L582",
+      "id": "skill_development_skill_best_practices_summary",
+      "community": 3,
+      "norm_label": "best practices summary"
+    },
+    {
+      "label": "Additional Resources",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L604",
+      "id": "skill_development_skill_additional_resources",
+      "community": 3,
+      "norm_label": "additional resources"
+    },
+    {
+      "label": "Study These Skills",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L606",
+      "id": "skill_development_skill_study_these_skills",
+      "community": 3,
+      "norm_label": "study these skills"
+    },
+    {
+      "label": "Reference Files",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L616",
+      "id": "skill_development_skill_reference_files",
+      "community": 3,
+      "norm_label": "reference files"
+    },
+    {
+      "label": "Implementation Workflow",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L621",
+      "id": "skill_development_skill_implementation_workflow",
+      "community": 3,
+      "norm_label": "implementation workflow"
+    },
+    {
+      "label": "skill-creator-original.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L1",
+      "id": "agents_skills_skill_development_references_skill_creator_original_md",
+      "community": 6,
+      "norm_label": "skill-creator-original.md"
+    },
+    {
+      "label": "Skill Creator",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L7",
+      "id": "references_skill_creator_original_skill_creator",
+      "community": 6,
+      "norm_label": "skill creator"
+    },
+    {
+      "label": "About Skills",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L11",
+      "id": "references_skill_creator_original_about_skills",
+      "community": 6,
+      "norm_label": "about skills"
+    },
+    {
+      "label": "What Skills Provide",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L18",
+      "id": "references_skill_creator_original_what_skills_provide",
+      "community": 6,
+      "norm_label": "what skills provide"
+    },
+    {
+      "label": "Anatomy of a Skill",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L25",
+      "id": "references_skill_creator_original_anatomy_of_a_skill",
+      "community": 6,
+      "norm_label": "anatomy of a skill"
+    },
+    {
+      "label": "code:block1 (skill-name/)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L29",
+      "id": "references_skill_creator_original_codeblock_1",
+      "community": 6,
+      "norm_label": "code:block1 (skill-name/)"
+    },
+    {
+      "label": "SKILL.md (required)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L42",
+      "id": "references_skill_creator_original_skill_md_required",
+      "community": 6,
+      "norm_label": "skill.md (required)"
+    },
+    {
+      "label": "Bundled Resources (optional)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L46",
+      "id": "references_skill_creator_original_bundled_resources_optional",
+      "community": 6,
+      "norm_label": "bundled resources (optional)"
+    },
+    {
+      "label": "Scripts (`scripts/`)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L48",
+      "id": "references_skill_creator_original_scripts_scripts",
+      "community": 6,
+      "norm_label": "scripts (`scripts/`)"
+    },
+    {
+      "label": "References (`references/`)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L57",
+      "id": "references_skill_creator_original_references_references",
+      "community": 6,
+      "norm_label": "references (`references/`)"
+    },
+    {
+      "label": "Assets (`assets/`)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L68",
+      "id": "references_skill_creator_original_assets_assets",
+      "community": 6,
+      "norm_label": "assets (`assets/`)"
+    },
+    {
+      "label": "Progressive Disclosure Design Principle",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L77",
+      "id": "references_skill_creator_original_progressive_disclosure_design_principle",
+      "community": 6,
+      "norm_label": "progressive disclosure design principle"
+    },
+    {
+      "label": "Skill Creation Process",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L87",
+      "id": "references_skill_creator_original_skill_creation_process",
+      "community": 7,
+      "norm_label": "skill creation process"
+    },
+    {
+      "label": "Step 1: Understanding the Skill with Concrete Examples",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L91",
+      "id": "references_skill_creator_original_step_1_understanding_the_skill_with_concrete_examples",
+      "community": 7,
+      "norm_label": "step 1: understanding the skill with concrete examples"
+    },
+    {
+      "label": "Step 2: Planning the Reusable Skill Contents",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L108",
+      "id": "references_skill_creator_original_step_2_planning_the_reusable_skill_contents",
+      "community": 7,
+      "norm_label": "step 2: planning the reusable skill contents"
+    },
+    {
+      "label": "Step 3: Initializing the Skill",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L132",
+      "id": "references_skill_creator_original_step_3_initializing_the_skill",
+      "community": 7,
+      "norm_label": "step 3: initializing the skill"
+    },
+    {
+      "label": "code:bash (scripts/init_skill.py <skill-name> --path <output-directory>)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L142",
+      "id": "references_skill_creator_original_codeblock_2",
+      "community": 7,
+      "norm_label": "code:bash (scripts/init_skill.py <skill-name> --path <output-directory>)"
+    },
+    {
+      "label": "Step 4: Edit the Skill",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L155",
+      "id": "references_skill_creator_original_step_4_edit_the_skill",
+      "community": 7,
+      "norm_label": "step 4: edit the skill"
+    },
+    {
+      "label": "Start with Reusable Skill Contents",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L159",
+      "id": "references_skill_creator_original_start_with_reusable_skill_contents",
+      "community": 7,
+      "norm_label": "start with reusable skill contents"
+    },
+    {
+      "label": "Update SKILL.md",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L165",
+      "id": "references_skill_creator_original_update_skill_md",
+      "community": 7,
+      "norm_label": "update skill.md"
+    },
+    {
+      "label": "Step 5: Packaging a Skill",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L175",
+      "id": "references_skill_creator_original_step_5_packaging_a_skill",
+      "community": 7,
+      "norm_label": "step 5: packaging a skill"
+    },
+    {
+      "label": "code:bash (scripts/package_skill.py <path/to/skill-folder>)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L179",
+      "id": "references_skill_creator_original_codeblock_3",
+      "community": 7,
+      "norm_label": "code:bash (scripts/package_skill.py <path/to/skill-folder>)"
+    },
+    {
+      "label": "code:bash (scripts/package_skill.py <path/to/skill-folder> ./dist)",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L185",
+      "id": "references_skill_creator_original_codeblock_4",
+      "community": 7,
+      "norm_label": "code:bash (scripts/package_skill.py <path/to/skill-folder> ./dist)"
+    },
+    {
+      "label": "Step 6: Iterate",
+      "file_type": "document",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L201",
+      "id": "references_skill_creator_original_step_6_iterate",
+      "community": 7,
+      "norm_label": "step 6: iterate"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "skills_lock_json",
+      "target": "far17_skills_lock_version",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "skills_lock_json",
+      "target": "far17_skills_lock_skills",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "far17_skills_lock_skills",
+      "target": "far17_skills_lock_skills_skill_development",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "far17_skills_lock_skills",
+      "target": "far17_skills_lock_skills_figma_implement_design",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "far17_skills_lock_skills",
+      "target": "far17_skills_lock_skills_frontend_design",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "far17_skills_lock_skills_skill_development",
+      "target": "far17_skills_lock_skill_development_source",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "far17_skills_lock_skills_skill_development",
+      "target": "far17_skills_lock_skill_development_sourcetype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "far17_skills_lock_skills_skill_development",
+      "target": "far17_skills_lock_skill_development_skillpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "far17_skills_lock_skills_skill_development",
+      "target": "far17_skills_lock_skill_development_computedhash",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "far17_skills_lock_skills_figma_implement_design",
+      "target": "far17_skills_lock_figma_implement_design_source",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "far17_skills_lock_skills_figma_implement_design",
+      "target": "far17_skills_lock_figma_implement_design_sourcetype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "far17_skills_lock_skills_figma_implement_design",
+      "target": "far17_skills_lock_figma_implement_design_skillpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "far17_skills_lock_skills_figma_implement_design",
+      "target": "far17_skills_lock_figma_implement_design_computedhash",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "far17_skills_lock_skills_frontend_design",
+      "target": "far17_skills_lock_frontend_design_source",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "far17_skills_lock_skills_frontend_design",
+      "target": "far17_skills_lock_frontend_design_sourcetype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "far17_skills_lock_skills_frontend_design",
+      "target": "far17_skills_lock_frontend_design_skillpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "skills-lock.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "far17_skills_lock_skills_frontend_design",
+      "target": "far17_skills_lock_frontend_design_computedhash",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".planning/config.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "planning_config_json",
+      "target": "planning_config_graphify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".planning/config.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "planning_config_graphify",
+      "target": "planning_config_graphify_enabled",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "readme_md",
+      "target": "far17_readme_far17",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "agents_skills_figma_implement_design_skill_md",
+      "target": "figma_implement_design_skill_implement_design",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_implement_design",
+      "target": "figma_implement_design_skill_overview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_implement_design",
+      "target": "figma_implement_design_skill_skill_boundaries",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_implement_design",
+      "target": "figma_implement_design_skill_prerequisites",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_implement_design",
+      "target": "figma_implement_design_skill_required_workflow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L141",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_implement_design",
+      "target": "figma_implement_design_skill_implementation_rules",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L163",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_implement_design",
+      "target": "figma_implement_design_skill_examples",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L200",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_implement_design",
+      "target": "figma_implement_design_skill_best_practices",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L222",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_implement_design",
+      "target": "figma_implement_design_skill_common_issues_and_solutions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L244",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_implement_design",
+      "target": "figma_implement_design_skill_understanding_design_implementation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L254",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_implement_design",
+      "target": "figma_implement_design_skill_additional_resources",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_required_workflow",
+      "target": "figma_implement_design_skill_step_1_get_node_id",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_required_workflow",
+      "target": "figma_implement_design_skill_step_2_fetch_design_context",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_required_workflow",
+      "target": "figma_implement_design_skill_step_3_capture_visual_reference",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_required_workflow",
+      "target": "figma_implement_design_skill_step_4_download_required_assets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_required_workflow",
+      "target": "figma_implement_design_skill_step_5_translate_to_project_conventions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L115",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_required_workflow",
+      "target": "figma_implement_design_skill_step_6_achieve_1_1_visual_parity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L127",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_required_workflow",
+      "target": "figma_implement_design_skill_step_7_validate_against_figma",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_step_1_get_node_id",
+      "target": "figma_implement_design_skill_option_a_parse_from_figma_url",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L54",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_step_1_get_node_id",
+      "target": "figma_implement_design_skill_option_b_use_current_selection_from_figma_desktop_app_figma_desktop_mcp_only",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_step_2_fetch_design_context",
+      "target": "figma_implement_design_skill_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L86",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_step_3_capture_visual_reference",
+      "target": "figma_implement_design_skill_codeblock_2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L143",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_implementation_rules",
+      "target": "figma_implement_design_skill_component_organization",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_implementation_rules",
+      "target": "figma_implement_design_skill_design_system_integration",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L156",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_implementation_rules",
+      "target": "figma_implement_design_skill_code_quality",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_examples",
+      "target": "figma_implement_design_skill_example_1_implementing_a_button_component",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L182",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_examples",
+      "target": "figma_implement_design_skill_example_2_building_a_dashboard_layout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L202",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_best_practices",
+      "target": "figma_implement_design_skill_always_start_with_context",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L206",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_best_practices",
+      "target": "figma_implement_design_skill_incremental_validation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L210",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_best_practices",
+      "target": "figma_implement_design_skill_document_deviations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L214",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_best_practices",
+      "target": "figma_implement_design_skill_reuse_over_recreation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L218",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_best_practices",
+      "target": "figma_implement_design_skill_design_system_first",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L224",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_common_issues_and_solutions",
+      "target": "figma_implement_design_skill_issue_figma_output_is_truncated",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L229",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_common_issues_and_solutions",
+      "target": "figma_implement_design_skill_issue_design_doesn_t_match_after_implementation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L234",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_common_issues_and_solutions",
+      "target": "figma_implement_design_skill_issue_assets_not_loading",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/figma-implement-design/SKILL.md",
+      "source_location": "L239",
+      "weight": 1.0,
+      "source": "figma_implement_design_skill_common_issues_and_solutions",
+      "target": "figma_implement_design_skill_issue_design_token_values_differ_from_figma",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/frontend-design/SKILL.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "agents_skills_frontend_design_skill_md",
+      "target": "frontend_design_skill_design_thinking",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/frontend-design/SKILL.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "agents_skills_frontend_design_skill_md",
+      "target": "frontend_design_skill_frontend_aesthetics_guidelines",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "agents_skills_skill_development_skill_md",
+      "target": "skill_development_skill_skill_development_for_claude_code_plugins",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_development_for_claude_code_plugins",
+      "target": "skill_development_skill_about_skills",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_development_for_claude_code_plugins",
+      "target": "skill_development_skill_skill_creation_process",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L249",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_development_for_claude_code_plugins",
+      "target": "skill_development_skill_plugin_specific_considerations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L294",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_development_for_claude_code_plugins",
+      "target": "skill_development_skill_examples_from_plugin_dev",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L318",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_development_for_claude_code_plugins",
+      "target": "skill_development_skill_progressive_disclosure_in_practice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L362",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_development_for_claude_code_plugins",
+      "target": "skill_development_skill_writing_style_requirements",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L415",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_development_for_claude_code_plugins",
+      "target": "skill_development_skill_validation_checklist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L451",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_development_for_claude_code_plugins",
+      "target": "skill_development_skill_common_mistakes_to_avoid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L541",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_development_for_claude_code_plugins",
+      "target": "skill_development_skill_quick_reference",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L582",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_development_for_claude_code_plugins",
+      "target": "skill_development_skill_best_practices_summary",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L604",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_development_for_claude_code_plugins",
+      "target": "skill_development_skill_additional_resources",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L621",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_development_for_claude_code_plugins",
+      "target": "skill_development_skill_implementation_workflow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "skill_development_skill_about_skills",
+      "target": "skill_development_skill_what_skills_provide",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "skill_development_skill_about_skills",
+      "target": "skill_development_skill_anatomy_of_a_skill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "skill_development_skill_about_skills",
+      "target": "skill_development_skill_progressive_disclosure_design_principle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "skill_development_skill_anatomy_of_a_skill",
+      "target": "skill_development_skill_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "skill_development_skill_anatomy_of_a_skill",
+      "target": "skill_development_skill_skill_md_required",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "skill_development_skill_anatomy_of_a_skill",
+      "target": "skill_development_skill_bundled_resources_optional",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "skill_development_skill_bundled_resources_optional",
+      "target": "skill_development_skill_scripts_scripts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "skill_development_skill_bundled_resources_optional",
+      "target": "skill_development_skill_references_references",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "skill_development_skill_bundled_resources_optional",
+      "target": "skill_development_skill_assets_assets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_creation_process",
+      "target": "skill_development_skill_step_1_understanding_the_skill_with_concrete_examples",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L108",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_creation_process",
+      "target": "skill_development_skill_step_2_planning_the_reusable_skill_contents",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L137",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_creation_process",
+      "target": "skill_development_skill_step_3_create_skill_structure",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L148",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_creation_process",
+      "target": "skill_development_skill_step_4_edit_the_skill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L212",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_creation_process",
+      "target": "skill_development_skill_step_5_validate_and_test",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L232",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_creation_process",
+      "target": "skill_development_skill_step_6_iterate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L141",
+      "weight": 1.0,
+      "source": "skill_development_skill_step_3_create_skill_structure",
+      "target": "skill_development_skill_codeblock_2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "skill_development_skill_step_4_edit_the_skill",
+      "target": "skill_development_skill_start_with_reusable_skill_contents",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L158",
+      "weight": 1.0,
+      "source": "skill_development_skill_step_4_edit_the_skill",
+      "target": "skill_development_skill_update_skill_md",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L164",
+      "weight": 1.0,
+      "source": "skill_development_skill_update_skill_md",
+      "target": "skill_development_skill_codeblock_3",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L173",
+      "weight": 1.0,
+      "source": "skill_development_skill_update_skill_md",
+      "target": "skill_development_skill_codeblock_4",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L178",
+      "weight": 1.0,
+      "source": "skill_development_skill_update_skill_md",
+      "target": "skill_development_skill_codeblock_5",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L197",
+      "weight": 1.0,
+      "source": "skill_development_skill_update_skill_md",
+      "target": "skill_development_skill_codeblock_6",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L226",
+      "weight": 1.0,
+      "source": "skill_development_skill_step_5_validate_and_test",
+      "target": "skill_development_skill_codeblock_7",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L251",
+      "weight": 1.0,
+      "source": "skill_development_skill_plugin_specific_considerations",
+      "target": "skill_development_skill_skill_location_in_plugins",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L269",
+      "weight": 1.0,
+      "source": "skill_development_skill_plugin_specific_considerations",
+      "target": "skill_development_skill_auto_discovery",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L278",
+      "weight": 1.0,
+      "source": "skill_development_skill_plugin_specific_considerations",
+      "target": "skill_development_skill_no_packaging_needed",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L282",
+      "weight": 1.0,
+      "source": "skill_development_skill_plugin_specific_considerations",
+      "target": "skill_development_skill_testing_in_plugins",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L255",
+      "weight": 1.0,
+      "source": "skill_development_skill_skill_location_in_plugins",
+      "target": "skill_development_skill_codeblock_8",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L286",
+      "weight": 1.0,
+      "source": "skill_development_skill_testing_in_plugins",
+      "target": "skill_development_skill_codeblock_9",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L320",
+      "weight": 1.0,
+      "source": "skill_development_skill_progressive_disclosure_in_practice",
+      "target": "skill_development_skill_what_goes_in_skill_md",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L331",
+      "weight": 1.0,
+      "source": "skill_development_skill_progressive_disclosure_in_practice",
+      "target": "skill_development_skill_what_goes_in_references",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L342",
+      "weight": 1.0,
+      "source": "skill_development_skill_progressive_disclosure_in_practice",
+      "target": "skill_development_skill_what_goes_in_examples",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L352",
+      "weight": 1.0,
+      "source": "skill_development_skill_progressive_disclosure_in_practice",
+      "target": "skill_development_skill_what_goes_in_scripts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L364",
+      "weight": 1.0,
+      "source": "skill_development_skill_writing_style_requirements",
+      "target": "skill_development_skill_imperative_infinitive_form",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L382",
+      "weight": 1.0,
+      "source": "skill_development_skill_writing_style_requirements",
+      "target": "skill_development_skill_third_person_in_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L397",
+      "weight": 1.0,
+      "source": "skill_development_skill_writing_style_requirements",
+      "target": "skill_development_skill_objective_instructional_language",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L369",
+      "weight": 1.0,
+      "source": "skill_development_skill_imperative_infinitive_form",
+      "target": "skill_development_skill_codeblock_10",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L376",
+      "weight": 1.0,
+      "source": "skill_development_skill_imperative_infinitive_form",
+      "target": "skill_development_skill_codeblock_11",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L387",
+      "weight": 1.0,
+      "source": "skill_development_skill_third_person_in_description",
+      "target": "skill_development_skill_codeblock_12",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L392",
+      "weight": 1.0,
+      "source": "skill_development_skill_third_person_in_description",
+      "target": "skill_development_skill_codeblock_13",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L402",
+      "weight": 1.0,
+      "source": "skill_development_skill_objective_instructional_language",
+      "target": "skill_development_skill_codeblock_14",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L409",
+      "weight": 1.0,
+      "source": "skill_development_skill_objective_instructional_language",
+      "target": "skill_development_skill_codeblock_15",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L453",
+      "weight": 1.0,
+      "source": "skill_development_skill_common_mistakes_to_avoid",
+      "target": "skill_development_skill_mistake_1_weak_trigger_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L469",
+      "weight": 1.0,
+      "source": "skill_development_skill_common_mistakes_to_avoid",
+      "target": "skill_development_skill_mistake_2_too_much_in_skill_md",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L490",
+      "weight": 1.0,
+      "source": "skill_development_skill_common_mistakes_to_avoid",
+      "target": "skill_development_skill_mistake_3_second_person_writing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L510",
+      "weight": 1.0,
+      "source": "skill_development_skill_common_mistakes_to_avoid",
+      "target": "skill_development_skill_mistake_4_missing_resource_references",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L456",
+      "weight": 1.0,
+      "source": "skill_development_skill_mistake_1_weak_trigger_description",
+      "target": "skill_development_skill_codeblock_16",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L463",
+      "weight": 1.0,
+      "source": "skill_development_skill_mistake_1_weak_trigger_description",
+      "target": "skill_development_skill_codeblock_17",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L472",
+      "weight": 1.0,
+      "source": "skill_development_skill_mistake_2_too_much_in_skill_md",
+      "target": "skill_development_skill_codeblock_18",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L480",
+      "weight": 1.0,
+      "source": "skill_development_skill_mistake_2_too_much_in_skill_md",
+      "target": "skill_development_skill_codeblock_19",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L493",
+      "weight": 1.0,
+      "source": "skill_development_skill_mistake_3_second_person_writing",
+      "target": "skill_development_skill_codeblock_20",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L502",
+      "weight": 1.0,
+      "source": "skill_development_skill_mistake_3_second_person_writing",
+      "target": "skill_development_skill_codeblock_21",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L513",
+      "weight": 1.0,
+      "source": "skill_development_skill_mistake_4_missing_resource_references",
+      "target": "skill_development_skill_codeblock_22",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L524",
+      "weight": 1.0,
+      "source": "skill_development_skill_mistake_4_missing_resource_references",
+      "target": "skill_development_skill_codeblock_23",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L543",
+      "weight": 1.0,
+      "source": "skill_development_skill_quick_reference",
+      "target": "skill_development_skill_minimal_skill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L552",
+      "weight": 1.0,
+      "source": "skill_development_skill_quick_reference",
+      "target": "skill_development_skill_standard_skill_recommended",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L565",
+      "weight": 1.0,
+      "source": "skill_development_skill_quick_reference",
+      "target": "skill_development_skill_complete_skill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L545",
+      "weight": 1.0,
+      "source": "skill_development_skill_minimal_skill",
+      "target": "skill_development_skill_codeblock_24",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L554",
+      "weight": 1.0,
+      "source": "skill_development_skill_standard_skill_recommended",
+      "target": "skill_development_skill_codeblock_25",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L567",
+      "weight": 1.0,
+      "source": "skill_development_skill_complete_skill",
+      "target": "skill_development_skill_codeblock_26",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L606",
+      "weight": 1.0,
+      "source": "skill_development_skill_additional_resources",
+      "target": "skill_development_skill_study_these_skills",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/SKILL.md",
+      "source_location": "L616",
+      "weight": 1.0,
+      "source": "skill_development_skill_additional_resources",
+      "target": "skill_development_skill_reference_files",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "agents_skills_skill_development_references_skill_creator_original_md",
+      "target": "references_skill_creator_original_skill_creator",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_skill_creator",
+      "target": "references_skill_creator_original_about_skills",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_skill_creator",
+      "target": "references_skill_creator_original_skill_creation_process",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_about_skills",
+      "target": "references_skill_creator_original_what_skills_provide",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_about_skills",
+      "target": "references_skill_creator_original_anatomy_of_a_skill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_about_skills",
+      "target": "references_skill_creator_original_progressive_disclosure_design_principle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_anatomy_of_a_skill",
+      "target": "references_skill_creator_original_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_anatomy_of_a_skill",
+      "target": "references_skill_creator_original_skill_md_required",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_anatomy_of_a_skill",
+      "target": "references_skill_creator_original_bundled_resources_optional",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_bundled_resources_optional",
+      "target": "references_skill_creator_original_scripts_scripts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_bundled_resources_optional",
+      "target": "references_skill_creator_original_references_references",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_bundled_resources_optional",
+      "target": "references_skill_creator_original_assets_assets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_skill_creation_process",
+      "target": "references_skill_creator_original_step_1_understanding_the_skill_with_concrete_examples",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L108",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_skill_creation_process",
+      "target": "references_skill_creator_original_step_2_planning_the_reusable_skill_contents",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L132",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_skill_creation_process",
+      "target": "references_skill_creator_original_step_3_initializing_the_skill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L155",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_skill_creation_process",
+      "target": "references_skill_creator_original_step_4_edit_the_skill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L175",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_skill_creation_process",
+      "target": "references_skill_creator_original_step_5_packaging_a_skill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L201",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_skill_creation_process",
+      "target": "references_skill_creator_original_step_6_iterate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L142",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_step_3_initializing_the_skill",
+      "target": "references_skill_creator_original_codeblock_2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L159",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_step_4_edit_the_skill",
+      "target": "references_skill_creator_original_start_with_reusable_skill_contents",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_step_4_edit_the_skill",
+      "target": "references_skill_creator_original_update_skill_md",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L179",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_step_5_packaging_a_skill",
+      "target": "references_skill_creator_original_codeblock_3",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/skills/skill-development/references/skill-creator-original.md",
+      "source_location": "L185",
+      "weight": 1.0,
+      "source": "references_skill_creator_original_step_5_packaging_a_skill",
+      "target": "references_skill_creator_original_codeblock_4",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "acd268ef33329d1ad019cc6c88a89ceece327a1e"
+}
