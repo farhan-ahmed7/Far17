@@ -1,16 +1,16 @@
-# Graph Report - Far17  (2026-05-15)
+# Graph Report - Far17  (2026-05-18)
 
 ## Corpus Check
-- 7 files · ~7,407 words
+- 10 files · ~31,615 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 163 nodes · 156 edges · 16 communities (13 shown, 3 thin omitted)
+- 200 nodes · 190 edges · 19 communities (16 shown, 3 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `acd268ef`
+- Built from commit: `ca5a9438`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -31,27 +31,30 @@
 - [[_COMMUNITY_Community 13|Community 13]]
 - [[_COMMUNITY_Community 14|Community 14]]
 - [[_COMMUNITY_Community 15|Community 15]]
+- [[_COMMUNITY_Community 16|Community 16]]
+- [[_COMMUNITY_Community 17|Community 17]]
+- [[_COMMUNITY_Community 18|Community 18]]
 
 ## God Nodes (most connected - your core abstractions)
-1. `Skill Development for Claude Code Plugins` - 13 edges
-2. `Implement Design` - 11 edges
-3. `Required Workflow` - 8 edges
-4. `Skill Creation Process` - 7 edges
-5. `Skill Creation Process` - 7 edges
-6. `Best Practices` - 6 edges
-7. `Skill Development` - 5 edges
-8. `figma-implement-design` - 5 edges
-9. `frontend-design` - 5 edges
-10. `Common Issues and Solutions` - 5 edges
+1. `Communities (16 total, 3 thin omitted)` - 14 edges
+2. `Skill Development for Claude Code Plugins` - 13 edges
+3. `Implement Design` - 11 edges
+4. `Graph Report - Far17  (2026-05-15)` - 10 edges
+5. `Required Workflow` - 8 edges
+6. `Skill Creation Process` - 7 edges
+7. `Skill Creation Process` - 7 edges
+8. `Best Practices` - 6 edges
+9. `Skill Development` - 5 edges
+10. `figma-implement-design` - 5 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (16 total, 3 thin omitted)
+## Communities (19 total, 3 thin omitted)
 
 ### Community 0 - "Community 0"
-Cohesion: 0.11
-Nodes (18): Additional Resources, Code Quality, Common Issues and Solutions, Component Organization, Design System Integration, Example 1: Implementing a Button Component, Example 2: Building a Dashboard Layout, Examples (+10 more)
+Cohesion: 0.08
+Nodes (24): Additional Resources, Always Start with Context, Best Practices, Code Quality, Common Issues and Solutions, Component Organization, Design System First, Design System Integration (+16 more)
 
 ### Community 1 - "Community 1"
 Cohesion: 0.11
@@ -98,11 +101,23 @@ Cohesion: 0.29
 Nodes (7): code:block24 (skill-name/), code:block25 (skill-name/), code:block26 (skill-name/), Complete Skill, Minimal Skill, Quick Reference, Standard Skill (Recommended)
 
 ### Community 12 - "Community 12"
-Cohesion: 0.33
-Nodes (6): Always Start with Context, Best Practices, Design System First, Document Deviations, Incremental Validation, Reuse Over Recreation
+Cohesion: 0.14
+Nodes (14): Communities (16 total, 3 thin omitted), Community 0 - "Community 0", Community 10 - "Community 10", Community 11 - "Community 11", Community 12 - "Community 12", Community 1 - "Community 1", Community 2 - "Community 2", Community 3 - "Community 3" (+6 more)
+
+### Community 16 - "Community 16"
+Cohesion: 0.2
+Nodes (9): Community Hubs (Navigation), Corpus Check, God Nodes (most connected - your core abstractions), Graph Freshness, Graph Report - Far17  (2026-05-15), Knowledge Gaps, Suggested Questions, Summary (+1 more)
+
+### Community 17 - "Community 17"
+Cohesion: 0.25
+Nodes (7): built_at_commit, directed, graph, hyperedges, links, multigraph, nodes
+
+### Community 18 - "Community 18"
+Cohesion: 0.4
+Nodes (4): edges, nodes, timestamp, version
 
 ## Knowledge Gaps
-- **107 isolated node(s):** `version`, `source`, `sourceType`, `skillPath`, `computedHash` (+102 more)
+- **139 isolated node(s):** `version`, `source`, `sourceType`, `skillPath`, `computedHash` (+134 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **3 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
@@ -110,15 +125,15 @@ Nodes (6): Always Start with Context, Best Practices, Design System First, Docum
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `Skill Development for Claude Code Plugins` connect `Community 3` to `Community 2`, `Community 4`, `Community 8`, `Community 9`, `Community 10`, `Community 11`?**
-  _High betweenness centrality (0.188) - this node is a cross-community bridge._
+  _High betweenness centrality (0.124) - this node is a cross-community bridge._
 - **Why does `Skill Creation Process` connect `Community 2` to `Community 3`?**
-  _High betweenness centrality (0.071) - this node is a cross-community bridge._
+  _High betweenness centrality (0.047) - this node is a cross-community bridge._
 - **Why does `Common Mistakes to Avoid` connect `Community 4` to `Community 3`?**
-  _High betweenness centrality (0.062) - this node is a cross-community bridge._
+  _High betweenness centrality (0.041) - this node is a cross-community bridge._
 - **What connects `version`, `source`, `sourceType` to the rest of the system?**
-  _107 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _139 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
-  _Cohesion score 0.11 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.08 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
   _Cohesion score 0.11 - nodes in this community are weakly interconnected._
 - **Should `Community 2` be split into smaller, more focused modules?**

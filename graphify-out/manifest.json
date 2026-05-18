@@ -9,9 +9,29 @@
     "ast_hash": "13a39e08ef724a0d79acc17f3c31dc61",
     "semantic_hash": ""
   },
+  "/home/user/Far17/.planning/graphs/graph.json": {
+    "mtime": 1778855239.991799,
+    "ast_hash": "ef54fb17f54869e7414879b29b4ef652",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/.planning/graphs/.last-build-snapshot.json": {
+    "mtime": 1778855240.0693862,
+    "ast_hash": "3fc3cb94f580535b531236c08344284a",
+    "semantic_hash": ""
+  },
   "/home/user/Far17/README.md": {
     "mtime": 1778449784.6779485,
     "ast_hash": "c5c0a6d1dfcea210187a12c88b797a7f",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/.planning/graphs/GRAPH_REPORT.md": {
+    "mtime": 1778855239.9956,
+    "ast_hash": "4b1d62f362e996ad69899e8595bcaede",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/.planning/graphs/graph.html": {
+    "mtime": 1778855239.993732,
+    "ast_hash": "75d5b0511c6adb3d06daebcae132832e",
     "semantic_hash": ""
   },
   "/home/user/Far17/.agents/skills/figma-implement-design/SKILL.md": {
