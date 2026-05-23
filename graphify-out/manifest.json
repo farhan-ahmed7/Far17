@@ -1,0 +1,82 @@
+{
+  "/home/user/Far17/skills-lock.json": {
+    "mtime": 1778854874.5293946,
+    "ast_hash": "14186779bd680042a648dc441b76063c",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/.planning/config.json": {
+    "mtime": 1778855192.1087434,
+    "ast_hash": "13a39e08ef724a0d79acc17f3c31dc61",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/.planning/graphs/graph.json": {
+    "mtime": 1778855239.991799,
+    "ast_hash": "ef54fb17f54869e7414879b29b4ef652",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/.planning/graphs/.last-build-snapshot.json": {
+    "mtime": 1778855240.0693862,
+    "ast_hash": "3fc3cb94f580535b531236c08344284a",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/README.md": {
+    "mtime": 1778449784.6779485,
+    "ast_hash": "c5c0a6d1dfcea210187a12c88b797a7f",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/.planning/graphs/GRAPH_REPORT.md": {
+    "mtime": 1778855239.9956,
+    "ast_hash": "4b1d62f362e996ad69899e8595bcaede",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/.planning/graphs/graph.html": {
+    "mtime": 1778855239.993732,
+    "ast_hash": "75d5b0511c6adb3d06daebcae132832e",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/.agents/skills/figma-implement-design/SKILL.md": {
+    "mtime": 1778854848.786934,
+    "ast_hash": "15d72b0ca1da5fe50382a7be2bf5b50f",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/.agents/skills/figma-implement-design/LICENSE.txt": {
+    "mtime": 1778854848.7869,
+    "ast_hash": "1fbc5660bff5facdc1a986aed4fbbb81",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/.agents/skills/figma-implement-design/agents/openai.yaml": {
+    "mtime": 1778854848.78736,
+    "ast_hash": "28f2369091a6551a47e3a96814907301",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/.agents/skills/frontend-design/SKILL.md": {
+    "mtime": 1778854844.3006048,
+    "ast_hash": "5c392562ec1cf5ffa6b9d2319375373f",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/.agents/skills/skill-development/SKILL.md": {
+    "mtime": 1778854874.5210829,
+    "ast_hash": "da2b91f33e2d77be8054cb3cd04a3462",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/.agents/skills/skill-development/references/skill-creator-original.md": {
+    "mtime": 1778854874.5213606,
+    "ast_hash": "7d41161e687ce615c0ad9e44f4f8cfd6",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/.agents/skills/figma-implement-design/assets/figma.png": {
+    "mtime": 1778854848.7873952,
+    "ast_hash": "1920575434965e9e64a7a512621a08b7",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/.agents/skills/figma-implement-design/assets/figma-small.svg": {
+    "mtime": 1778854848.7873368,
+    "ast_hash": "cf8608d26d42709238c1bd72c2f39a23",
+    "semantic_hash": ""
+  },
+  "/home/user/Far17/.agents/skills/figma-implement-design/assets/icon.svg": {
+    "mtime": 1778854848.7873952,
+    "ast_hash": "2ad189670a1fbfea28046ebeca6a5c97",
+    "semantic_hash": ""
+  }
+}
